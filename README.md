@@ -9,4 +9,6 @@
 
 ## Laravel boilerplate for SPA authentication
 
+Nuxt Frontend Repository: [Link](https://github.com/javierpomachagua/demo-auth-nuxt)
+
 For more details please read this [blog](https://javierpoma.com/blog/laravel-nuxt-auth-en-unos-minutos)
